@@ -131,7 +131,7 @@ python graph.py
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Anshika Mishra**
 
 Python | Web Scraping | Data Analysis | Research Analytics
 
